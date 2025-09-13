@@ -1,22 +1,34 @@
 # Responsive_Hospital_Website
-Project Title: Responsive Hospital Website
+**Project Overview**
 
-Description:
-A fully responsive hospital website built using HTML, CSS, and JavaScript. The website features sections for hospital services, doctor profiles, appointment booking, client reviews, and informative blogs. Designed with modern UI/UX principles, it ensures accessibility and seamless user experience across devices. This project demonstrates practical front-end development skills and showcases an interactive healthcare platform.
+A fully responsive hospital website built using HTML, CSS, and JavaScript. Designed with modern UI/UX principles, it provides an interactive healthcare platform for patients and hospital staff. The website adapts seamlessly across desktops, tablets, and mobile devices.
 
-Key Features:
+**Features**
 
-Free Checkups, 24/7 Ambulance, Expert Doctors, Medicines, Bed Facility, Total Care
+Comprehensive Services Section: Free Checkups, 24/7 Ambulance, Expert Doctors, Medicines, Bed Facility, Total Care
 
-Doctor profiles with specialities and social media links
+Doctor Profiles with specialties and social media links
 
-Appointment booking form with validation
+Appointment Booking form with validation
 
-Client review section with star ratings
+Client Reviews with star ratings
 
-Blog section for health awareness articles
+Blog Section for health awareness and updates
 
-Responsive layout for desktops, tablets, and mobile devices
+Fully responsive layout for all devices
 
-Technologies Used:
-HTML, CSS, JavaScript, Font Awesome, Google Fonts
+**Technologies Used**
+
+HTML
+
+CSS
+
+JavaScript
+
+Font Awesome Icons
+
+Google Fonts
+
+**Author**
+
+Miss Pragna – Developed as a hands-on front-end web development project to demonstrate responsive design and interactive UI components.
